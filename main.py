@@ -23,7 +23,7 @@ if test_6 == "1":
   test_counter =+ 1 
 if test_7 == "1": 
   test_counter =+ 1
-#RESULTS 
+#RES
 if test_counter >= 4:
   print("you are a golden retrievver")
 else:
